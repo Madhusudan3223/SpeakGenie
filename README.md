@@ -2,7 +2,7 @@
 An **AI-powered English Tutor Web App** that helps learners practice speaking English in a fun and interactive way.  
 Built with **TailwindCSS, Speech Recognition (STT), Speech Synthesis (TTS), and Google Gemini API**.
 
-🔗 **Live Demo:** [https://html-taupe-mu.vercel.app/](https://html-taupe-mu.vercel.app/)
+🔗 **Live Demo:** [https://html-taupe-mu.vercel.app/)
 
 ---
 
