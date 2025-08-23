@@ -6,12 +6,12 @@ Built with **TailwindCSS, Speech Recognition (STT), Speech Synthesis (TTS), and 
 
 ---
 
-## 🚀 Features
-- 🎤 **Voice Input (STT):** Speak into your mic and Genie understands you.  
-- 🔊 **Voice Output (TTS):** Genie responds back with natural speech.  
-- 🤖 **AI English Tutor Mode:** Corrects grammar and encourages learning.  
-- 🎭 **Roleplay Mode:** Practice real-life conversations (e.g., School, Store, Restaurant).  
-- 🌐 **Multi-language Support:** English, Hindi, Marathi, Gujarati, Tamil.  
-- 🧒 **Kid-Friendly UI:** Animated Genie character, colorful design, simple interaction.
+##  Features
+-  **Voice Input (STT):** Speak into your mic and Genie understands you.  
+-  **Voice Output (TTS):** Genie responds back with natural speech.  
+-  **AI English Tutor Mode:** Corrects grammar and encourages learning.  
+-  **Roleplay Mode:** Practice real-life conversations (e.g., School, Store, Restaurant).  
+-  **Multi-language Support:** English, Hindi, Marathi, Gujarati, Tamil.  
+-  **Kid-Friendly UI:** Animated Genie character, colorful design, simple interaction.
 
 ---
